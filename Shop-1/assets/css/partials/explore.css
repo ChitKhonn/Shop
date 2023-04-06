@@ -1,0 +1,37 @@
+.explore {
+    margin: 0;
+    padding: 0;
+}
+.first-col hr {
+    color: rgb(0, 0, 0);
+    height: 1px;
+}
+.first-col span, .second-col span  {
+    font-weight: 500;
+    text-transform: uppercase;
+    font-size: 10px;
+}
+.explore-image-1 .img-fluid {
+    max-width: 100%;
+    height: 255px;
+}
+.explore-image-2 .img-fluid {
+    max-width: 100%;
+    height: 140px;
+}
+.text-2 {
+    margin-bottom: 38px;
+}
+.button {
+    font-size: 13px;
+    margin: 25px 0;
+    display: flex;
+    justify-content: center;
+    text-transform: uppercase;
+}
+.button a {
+    text-decoration: none;
+    padding: 6px 12px;
+    color: #ffffffc7;
+    background: #333;
+}

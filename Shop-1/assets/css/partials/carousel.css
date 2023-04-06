@@ -1,0 +1,16 @@
+.carousel-control-prev-icon,.carousel-control-next-icon {
+    background: none;
+}
+.carousel-item .view img {
+    height: 550px;
+}
+.carousel-caption {
+    position: absolute; 
+    text-align: left;
+    top: 28%;
+    left: 61%;
+    font-size: 20px;
+}
+.carousel-caption h3 {
+    font-size: 40px;
+}

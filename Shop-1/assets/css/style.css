@@ -1,0 +1,36 @@
+@import "partials/bootstrap.min.css";
+@import "partials/navbar.css";
+@import "partials/carousel.css";
+@import "partials/featured.css";
+@import "partials/about-matter.css";
+@import "partials/explore.css";
+@import "partials/video.css";
+
+
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+
+/* :root {
+    --first-color: #16f;
+    --second-color: #ff7;
+}
+
+#firstParagraph {
+    background-color: var(--first-color);
+    color: var(--second-color);
+}
+
+#secondParagraph {
+    background-color: var(--second-color);
+    color: var(--first-color);
+}
+
+#container {
+    --first-color: #290;
+}
+
+#thirdParagraph {
+    background-color: var(--first-color);
+    color: var(--second-color);
+} */

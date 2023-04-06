@@ -1,0 +1,19 @@
+.video::before {
+    position: absolute;
+    /* pointer-events: none; */
+}
+.video::after {
+    color: white;
+    font-family: "Font Awesome 5 Free";
+    position: absolute;
+    content: "\f144";
+    font-size: 45px;
+    top: 32%;
+    left: 38%;
+    pointer-events: none;
+}
+.footer {
+    padding: 10px;
+    color: #ffffff9e;
+    background-color: rgb(19, 18, 18);
+}

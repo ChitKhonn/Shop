@@ -1,0 +1,21 @@
+.lorem7 {
+    font-weight: 500;
+    font-size: 11px;
+    text-transform: uppercase;
+}
+.num {
+    font-weight: 600;
+}
+.countries {
+    font-weight: 500;
+    font-size: 13px;
+    text-transform: uppercase;
+}
+.mat {
+    font-weight: 500;
+    font-size: 8px;
+    text-transform: uppercase;
+}
+.matter img {
+    height: 356px;
+}
